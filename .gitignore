@@ -152,7 +152,7 @@ wheels/
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit tests / coverage reports
 htmlcov/
 .tox/
 .coverage
@@ -210,5 +210,9 @@ ENV/
 
 # mkdocs documentation
 /site
+
+#Files
+*.docx
+*.txt
 
 # End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
